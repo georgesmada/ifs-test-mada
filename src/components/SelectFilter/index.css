@@ -1,0 +1,24 @@
+.selectfilter {
+  display: inline-block;
+  padding: 0;
+  background-color: #444242;
+}
+
+.container {
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.txtSelection {
+  background-color: var(--black);
+  height: 30px;
+  padding: 10px 0;
+  font-weight: 500;
+}
+
+.txtSelection span {
+  background-color: #b5161e;
+  color: white;
+  padding: 5px 7px;
+  border-radius: 3px;
+}

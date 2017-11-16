@@ -1,0 +1,16 @@
+body, html {
+  height: 100%;
+  background: var(--black);
+  color: var(--white);
+}
+
+.app {
+  display: block;
+  height: 100%;
+  font-family: 'helvetica55', sans-serif;
+}
+
+.container {
+  margin: 20px;
+  height: 100%;
+}

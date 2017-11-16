@@ -1,0 +1,15 @@
+.DS_Store
+.sass-cache
+.tmp
+.idea
+node_modules
+src/config/config.js
+npm-debug.log
+build
+.nyc_output
+coverage
+docs
+styleguide
+token.json
+.vscode
+dist

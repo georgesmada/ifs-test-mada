@@ -1,0 +1,8 @@
+.categoryElem{
+    cursor: pointer;
+    padding: 7px 10px;
+}
+
+.categoryElem:hover {
+  background-color: #d65118;
+}
